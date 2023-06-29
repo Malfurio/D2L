@@ -1,2 +1,2 @@
 # D2L
-Note f Studying D2L
+Note of Studying D2L
